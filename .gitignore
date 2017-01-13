@@ -1,0 +1,5 @@
+.DS_Store
+.deploy_git
+debug.log
+public
+.sass-cache
