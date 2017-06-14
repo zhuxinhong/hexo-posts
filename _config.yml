@@ -6,9 +6,9 @@
 title: zhuxinhong blog
 subtitle: java coder
 description: 时光如白马，稍纵即逝。术业有专攻，一生做好一件事真的很重要。
-author: Focus_cn
+author: 祝欣鸿
 language: zh-Hans
-timezone: Asia/Shanghai 
+timezone: Asia/Shanghai
 
 avatar: http://o7s628cn2.bkt.clouddn.com/image/avatar.png
 
@@ -70,5 +70,5 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhuxinhong/zhuxinhong.github.io.git 
+  repo: git@github.com:zhuxinhong/zhuxinhong.github.io.git
   branch: master
